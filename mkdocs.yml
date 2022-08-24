@@ -1,0 +1,26 @@
+site_name: ImProVe
+site_description: Automatic Reasoning with Functional Programming Assertions
+
+repo_name: tvcsantos/improved
+repo_url: https://github.com/tvcsantos/improved
+edit_uri: blob/master/docs/
+
+copyright: Copyright 2010-2016 Tiago Santos
+
+theme:
+  name: material
+  #logo: img/icons8-java.svg
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
