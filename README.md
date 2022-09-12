@@ -1,6 +1,6 @@
 # ImProVe
 
-> ⚠️ This project was developed from 2010 until 2016 and is no longer maintained ⚠️
+> ⚠️ This project was developed from 2010 to 2016 and is no longer maintained ⚠️
 
 Automatic Reasoning with Functional Programming Assertions.
 
