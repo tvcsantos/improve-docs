@@ -91,7 +91,7 @@ x:ref int
 ## Syntax
 
 $$
-$$\begin{array}{l l l l}
+\begin{array}{l l l l}
 \mathit{program} & :: = & program\_element^* & \mbox{(Programs)}\\
 \\
 \mathit{program\_element} & ::= & & \mbox{(Program Elements)}\\
@@ -160,7 +160,7 @@ $$\begin{array}{l l l l}
 \mathit{predicate\_definition} & ::= & \mathbf{let}\; \mathbf{rec} \; x \; \overline{typed\_id} =  \mathit{assertion} & \mbox{(Predicate Definition)}\\
 \\
 \mathit{typed\_id} & ::= & x:\tau & \mbox{(Typed Identifier)}\\
-\end{array}$$
+\end{array}
 $$
 
 ---
